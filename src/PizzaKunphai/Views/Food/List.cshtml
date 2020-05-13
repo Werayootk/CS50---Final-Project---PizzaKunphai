@@ -1,0 +1,13 @@
+﻿
+<div>
+    <h2>Please choose your pizza as below.</h2>
+</div>
+
+<h2>@Model.CurrentCategory</h2 >
+
+@{ 
+    foreach (Food food in Model.Foods)
+    {
+        @Html.Partial("FoodsSummary", food)
+    }
+}
