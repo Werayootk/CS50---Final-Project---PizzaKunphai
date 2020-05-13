@@ -9,3 +9,4 @@ Steps:
 Tools
 1. Visual studio 2015 Update3
 2. .net core 1.0
+3. SQL server 2012
