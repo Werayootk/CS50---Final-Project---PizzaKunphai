@@ -12,5 +12,8 @@ Steps install:
 3. On Package Manager console execute command: Add-Migration "Initial" and Update-Database
 4. Build and test
 
+please see video Url as below
+https://www.youtube.com/watch?v=u05qS5rEXEc
+
 
 
